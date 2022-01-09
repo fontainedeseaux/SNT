@@ -15,3 +15,6 @@
 
 ● Mini projet d'application 2 : le jeu des allumettes de Fort Boyard.
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2Fprojet_fort_boyard%2Fprojet_fort_boyard.ipynb)
+
+● Généralités sur les images : 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2Fprojet_fort_boyard%2Fprojet_fort_boyard.ipynb)
