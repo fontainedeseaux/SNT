@@ -20,5 +20,5 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2Fgeneralites_images%2Fles_images.ipynb)
 
 ● HTML/CSS : 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2Fgeneralites_images%2Fles_images.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2FHTML%2Fhtml_css.ipynb)
 
