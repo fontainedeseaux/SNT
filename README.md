@@ -22,5 +22,5 @@
 ● HTML/CSS : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2FHTML%2Fhtml_css.ipynb)
 
-● HTML/CSS : 
+● Chiffrement symétrique : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fontainedeseaux/SNT/HEAD?urlpath=%2Fnotebooks%2Fchiffrement_symetrique%2Fchiffrement_symetrique.ipynb)
